@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Arindam Mondal",
+    "role": "Software Developer",
+    "experience": 3,
+    "email": "arindam1@example.com",
+    "phone": "9000000001",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700016"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "role": "Backend Developer",
+    "experience": 4,
+    "email": "rahul2@example.com",
+    "phone": "9000000002",
+    "city": "Delhi",
+    "state": "Delhi",
+    "pincode": "110001"
+  },
+  {
+    "id": 3,
+    "name": "Priya Singh",
+    "role": "Frontend Developer",
+    "experience": 2,
+    "email": "priya3@example.com",
+    "phone": "9000000003",
+    "city": "Noida",
+    "state": "UP",
+    "pincode": "201301"
+  },
+  {
+    "id": 4,
+    "name": "Amit Patel",
+    "role": "Full Stack Developer",
+    "experience": 5,
+    "email": "amit4@example.com",
+    "phone": "9000000004",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380015"
+  },
+  {
+    "id": 5,
+    "name": "Sneha Das",
+    "role": "UI/UX Designer",
+    "experience": 3,
+    "email": "sneha5@example.com",
+    "phone": "9000000005",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700091"
+  },
+  {
+    "id": 6,
+    "name": "Vikram Rao",
+    "role": "DevOps Engineer",
+    "experience": 6,
+    "email": "vikram6@example.com",
+    "phone": "9000000006",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "pincode": "560076"
+  },
+  {
+    "id": 7,
+    "name": "Neha Gupta",
+    "role": "QA Engineer",
+    "experience": 3,
+    "email": "neha7@example.com",
+    "phone": "9000000007",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "pincode": "560038"
+  },
+  {
+    "id": 8,
+    "name": "Rohit Verma",
+    "role": "Mobile Developer",
+    "experience": 2,
+    "email": "rohit8@example.com",
+    "phone": "9000000008",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053"
+  },
+  {
+    "id": 9,
+    "name": "Anjali Mehta",
+    "role": "Data Analyst",
+    "experience": 4,
+    "email": "anjali9@example.com",
+    "phone": "9000000009",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400097"
+  },
+  {
+    "id": 10,
+    "name": "Karan Singh",
+    "role": "AI Engineer",
+    "experience": 5,
+    "email": "karan10@example.com",
+    "phone": "9000000010",
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "pincode": "160022"
+  }
+]
